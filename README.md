@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer science and engineering
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me ks24032003@gmail.com
-- 😄 Pronouns: Just for fun
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: i am very good learner
 
 <!---
